@@ -1,5 +1,5 @@
 def add(a, b):
-    """Returns sum of two numbers."""
+    """Sum of two nums"""
     return a + b
 
 def subtract(a, b):
